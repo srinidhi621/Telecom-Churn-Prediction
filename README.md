@@ -21,3 +21,7 @@ In churn prediction, we assume that there are three phases of customer lifecycle
     The ‘churn’ phase: In this phase, the customer is said to have churned. You define churn based on this phase. Also, it is important to note that at the time of prediction (i.e. the action months), this data is not available to you for prediction. Thus, after tagging churn as 1/0 based on this phase, you discard all data corresponding to this phase.
     
 In this case, since we have data over a four-month window, the first two months are the ‘good’ phase, the third month is the ‘action’ phase, while the fourth month is the ‘churn’ phase.
+
+This was a collaborative effort with following contributors;
+1. Vijay Mullangi
+2. Srinivasu Ryali
