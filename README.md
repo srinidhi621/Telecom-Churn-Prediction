@@ -22,6 +22,3 @@ In churn prediction, we assume that there are three phases of customer lifecycle
     
 In this case, since we have data over a four-month window, the first two months are the ‘good’ phase, the third month is the ‘action’ phase, while the fourth month is the ‘churn’ phase.
 
-This was a collaborative effort with following contributors;
-1. Vijay Mullangi
-2. Srinivasu Ryali
